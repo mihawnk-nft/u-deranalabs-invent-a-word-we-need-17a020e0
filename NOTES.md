@@ -49,6 +49,10 @@ spellable / memorable, sounds English-grown, (5) fresh and surprising.
   bundle is built by `makefun bundle` from the submitting session
   (system prompt + sessions). NOT submitted from this build — submit needs
   the user's explicit green light in chat.
+- Final check on the pushed git repo (2026-11-25): **4 passed, 1 failed
+  (transcripts_present only), 14 skipped, 5 at-submission** — repo PUBLIC,
+  created 2026-11-25T04:58:17Z (after opening 03:54:35Z), commit cdc2437
+  pushed to main.
 
 ## Repo
 
